@@ -1,0 +1,21 @@
+This archive file contains all the source code, experimental data and results related to the study with the title "Accuracy and Efficiency of Performance Metrics in Reasoning EL Ontologies".
+
+In the order of folders:
+------------------------
+* 01 Measuring 92 Metrics: This folder contains the source code used for calling the 92 metrics, the executable JAR that is run to measure the metrics and the shell script to call the executable JAR.
+
+* 02 Measuring Core Metrics:  This folder contains the source code used for calling the core metrics, the executable JAR that is run to measure the metrics and the shell script to call the executable JAR.
+
+* 03 Running ELK v.0.4.3: This folder contains the source code used for calling the ELK reasoner, the executable JAR that is run to make TBox classification with time measurements and the shell script to call the executable JAR. In addition, the execution of 3 runs on the 8805 EL ontologies of ORE2014 is included in a raw form.
+
+* 04 Running JCEL v.0.24.1: This folder contains the source code used for calling the JCEL reasoner, the executable JAR that is run to make TBox classification with time measurements and the shell script to call the executable JAR. In addition, the execution of 3 runs on the 8805 EL ontologies of ORE2014 is included in a raw form.
+
+* 05 Running TrOWL v.1.5: This folder contains the source code used for calling the TrOWL reasoner, the executable JAR that is run to make TBox classification with time measurements and the shell script to call the executable JAR. In addition, the execution of 3 runs on the 8805 EL ontologies of ORE2014 is included in a raw form.
+
+* 06 Experiment Set-1: This folder contains the raw data and the data preprocessed for classification/regression of the experiment Set-1. The R-scripts used for generating/testing models with results and analysis are also included.
+
+* 07 Experiment Set-2: This folder contains the raw data and the data preprocessed for classification/regression of the experiment Set-2. The R-scripts used for generating/testing models with results and analysis are also included.
+
+* 08 Experiment Set-3: This folder contains the raw data and the data preprocessed for classification/regression of the experiment Set-3. The R-scripts used for generating/testing models with results and analysis are also included.
+
+* 09 Experiment Set-4: This folder contains the raw data and the data preprocessed for classification/regression of the experiment Set-4. The R-scripts used for generating/testing models with results and analysis are also included.
